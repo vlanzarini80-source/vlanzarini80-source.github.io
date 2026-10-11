@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.lanzarini.lnzmusicguard",
+      "sha256_cert_fingerprints": [
+        "F4:DA:0C:BA:C7:CC:C3:AE:93:0E:9F:ED:FD:47:C1:5E:60:7F:2A:FD:71:F7:45:10:B5:09:DD:5A:F6:0B:00:C2"
+      ]
+    }
+  }
+]
